@@ -11,7 +11,7 @@ interface itemsInfoType {
     submenu: subItemsInfoType[]
 }
 
-export const modedev = true
+export const modedev = false
 
 export const infoCourse = {
     title: "Sistemas Embebidos",
